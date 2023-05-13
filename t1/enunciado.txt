@@ -1,0 +1,7 @@
+Determinar detalhadamente a complexidade do MergeSort e demonstrar por indução a validade da fórmula de recorrência
+
+Parcialmente ela pode ser encontrada na apostila da UFSCar. (https://moodle.joinville.udesc.br/pluginfile.php/254451/mod_resource/content/1/Algoritmos_e_Estruturas_de_Dados.pdf)
+
+Os trabalhos de sala irão em conjunto contar como parcial (20% a 30%) da nota de trabalho 1.
+
+Fazer a sua solução, como visto em aula, copia da apostila é zero.
