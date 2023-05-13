@@ -1,0 +1,12 @@
+1. Escolher um caso prático para modelar utilizando o algoritmo de Dijkstra, entregue seu grafo, implantação computacional e custo da solução utilizada. Exemplos: rota entre cidades, custo de roteamento,  custo de produção, entre outros
+
+Exemplos podem ser encontrados em:
+
+https://www.geeksforgeeks.org/applications-of-dijkstras-shortest-path-algorithm/
+
+2 . O mesmo para BFS ou DFS - problemas clássicos incluem encontrar componente conexa, menor distância (BFS) em grafos não ponderados, determinar se há caminho entre elementos, entre outros.
+
+https://www.geeksforgeeks.org/when-to-use-dfs-or-bfs-to-solve-a-graph-problem/?ref=gcse
+
+Os trabalhos de sala - p2 - irão em conjunto contar como parcial (20% a 30%) da nota de trabalho 2.
+
