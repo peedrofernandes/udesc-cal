@@ -1,0 +1,9 @@
+Resolver os exercícios do Slide 54 de recorrências utilizando o Teorema Mestre.
+Demonstrar que 
+•Qualquer algoritmo de ordenação por comparação exige Ω(n lg n) comparações no pior caso. Dica, veja os slides em anexo e consulte o livro do Cormen,
+
+
+
+
+Os trabalhos de sala irão em conjunto contar como parcial (20% a 30%) da nota de trabalho 1.
+
