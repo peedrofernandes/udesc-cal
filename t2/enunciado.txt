@@ -1,0 +1,8 @@
+Implementar e comparar a complexidade dos algoritmos Insertion Sort, Bubble Sort, QuickSort, MergeSort, HeapSort, Busca linear e binária.
+
+Variar o tamanho da entrada, comparar os tempos e construir o gráfico de variação de tempo de computação X tamanho da entrada,
+
+Os trabalhos de sala irão em conjunto contar como parcial (20% a 30%) da nota de trabalho 1.
+
+Fazer a sua solução, como visto em aula, copia da apostila é zero.
+
